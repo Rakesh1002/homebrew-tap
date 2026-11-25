@@ -1,6 +1,6 @@
 cask "focusly" do
   version "2.0.0"
-  sha256 "209e60bee5323b76fe9c0d8c9a1e6b9eb2fd9196aab21700e5acda7fa886daac"
+  sha256 "04677521af8c4cd4a3c54b040188c36ae5827ac2de65e6a2f130d6bbe53bdbd1"
 
   url "https://github.com/Rakesh1002/Focusly/releases/download/v#{version}/Focusly-#{version}.dmg"
   name "Focusly"
