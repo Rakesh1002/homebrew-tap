@@ -5,7 +5,7 @@ cask "focusly" do
   url "https://github.com/Rakesh1002/Focusly/releases/download/v#{version}/Focusly-#{version}.dmg"
   name "Focusly"
   desc "Floating focus timer that shows your task and calls you back when you drift"
-  homepage "https://focusly.unquest.ai/"
+  homepage "https://focusly.roushan.xyz/"
 
   livecheck do
     url :url
